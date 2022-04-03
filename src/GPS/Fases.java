@@ -1,0 +1,5 @@
+package GPS;
+
+public enum Fases {
+    ANALISIS, DISEÑO, IMPLEMENTACION, DESPLIEGUE, MANTENIMIENTO;
+}
